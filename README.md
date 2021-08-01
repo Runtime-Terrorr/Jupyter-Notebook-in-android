@@ -9,10 +9,7 @@ Following Repo includes how to run a Jupyter Notebook in Android Devices
 
 3) A Compatible Browser
 
-#### After Installing Pydriod3 O
-
-
-pen it And Press three-Dashed icon On top left Corner
+#### After Installing Pydriod3 open it And Press three-Dashed icon On top left Corner
 #### Navigate To the PIP section 
 #### Make Sure That Install Tab is selected From the Four One
 #### Now just Type in The search box
