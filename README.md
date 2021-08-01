@@ -35,4 +35,4 @@ Following Repo includes how to run a Jupyter Notebook in Android Devices
 
 https://jupyter-notebook.readthedocs.io/en/stable/
 
-##Thank You !
+## Thank You !
