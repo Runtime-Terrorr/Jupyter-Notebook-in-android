@@ -1,7 +1,7 @@
 # Jupyter-Notebook-in-android
 Following Repo includes how to run a Jupyter Notebook in Android Devices
 
-## Requirements :-
+## Requirements 
 **For Accessing Jupyter Notebook in Android Devices You will need**
 
 1) [Pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
@@ -10,7 +10,7 @@ Following Repo includes how to run a Jupyter Notebook in Android Devices
 
 3) A Compatible Browser
 
-# Initialization :- 
+# Initialization 
 
 1) **After Installing Pydriod3 open it And Press three-Dashed icon On top left Corner**
 2) **Navigate To the PIP section** 
@@ -30,12 +30,12 @@ Following Repo includes how to run a Jupyter Notebook in Android Devices
   
   **After Processing this command You Screen will Redirect To the Default browser opening a local host web server and from there you can run Jupyter Notebook easily**
 
-# Note :-
+# Note 
 
 1) For Better Experience You Must Use Hackers keyboard or any Physical Keyboard 
 2) Some Devices Might be having Issues To run it Properly
 
-# Jupyter Documentation :-
+# Jupyter Documentation 
 
 https://jupyter-notebook.readthedocs.io/en/stable/
 
