@@ -24,4 +24,15 @@ Following Repo includes how to run a Jupyter Notebook in Android Devices
 ## Now Move To the Terminal , placed above PIP and Just Type 
 > Jupyter Notebook
 
-#### This Command Will Now Processed amd will opem a Live Web Server 
+#### After Processing this command You Screen will Redirect To the Default browser opening a local host web server and from there you can run Jupyter Notebook easily
+
+# Note :-
+
+1) For Better Experience You Must Use Hackers keyboard or any Physical Keyboard 
+2) Some Devices Might be having Issues To run it Properly
+
+### Jupyter Documentation :-
+
+https://jupyter-notebook.readthedocs.io/en/stable/
+
+##Thank You !
